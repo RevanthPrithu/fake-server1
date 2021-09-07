@@ -5,7 +5,7 @@
             "title": "Vada",
             "price": 109.95,
             "description": "Vada is as cool as it goes smooth with idly ",
-            "category": "men's clothing",
+            "category": "indian",
             "image": "https://vegveganmeat.com/wp-content/uploads/2020/11/soft-crispy-medu-vada-720x720.jpg",
             "rating": {
             "rate": 3.9,
@@ -17,7 +17,7 @@
             "title": "Idly ",
             "price": 22.3,
             "description": "We provide this finest rava idly and normal one that is superb which everbody says in our restaurant",
-            "category": "men's clothing",
+            "category": "indian",
             "image": "https://st.depositphotos.com/1354142/3438/i/600/depositphotos_34381351-stock-photo-south-indian-breakfast-on-banana.jpg",
             "rating": {
             "rate": 4.1,
@@ -29,7 +29,7 @@
             "title": "Puliogare",
             "price": 55.99,
             "description": "Puliogare is tamarind rice basically we do iyengar puliogare",
-            "category": "men's clothing",
+            "category": "indian",
             "image": "https://img.food.boxspace.in/image/rbk_5bb82d536c231/xhdpi.jpg",
             "rating": {
             "rate": 4.7,
@@ -41,7 +41,7 @@
             "title": "Lemon rice",
             "price": 15.99,
             "description": "As Tangy as superb",
-            "category": "men's clothing",
+            "category": "indian",
             "image": "https://www.whiskaffair.com/wp-content/uploads/2014/06/Lemon-Rice-4.jpg",
             "rating": {
             "rate": 2.1,
@@ -53,7 +53,7 @@
             "title": "Noodles",
             "price": 695,
             "description": "Noodles are great here ,You could have mix of masalas",
-            "category": "jewelery",
+            "category": "chinese",
             "image": "https://thechutneylife.com/wp-content/uploads/2017/09/Veg-Hakka-Noodles-The-Chutney-Life-4.jpg",
             "rating": {
             "rate": 4.6,
@@ -65,7 +65,7 @@
             "title": "Momos ",
             "price": 168,
             "description": "Satisfaction Guaranteed. with the taste and its originality",
-            "category": "jewelery",
+            "category": "chinese",
             "image": "https://nishkitchen.com/wp-content/uploads/2019/05/Chicken-Momos-1B.jpg",
             "rating": {
             "rate": 3.9,
@@ -77,7 +77,7 @@
             "title": "Manchurian",
             "price": 9.99,
             "description": "Classic Created ,Taste at its best",
-            "category": "jewelery",
+            "category": "chinese",
             "image": "https://www.cookshideout.com/wp-content/uploads/2014/11/Veg-Manchurian-Low-Fat-FI.jpg",
             "rating": {
             "rate": 3,
@@ -89,7 +89,7 @@
             "title": "Gobi Rice",
             "price": 10.99,
             "description": "Perfectly done and taste at its best",
-            "category": "jewelery",
+            "category": "chinese",
             "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/jan-10/Gobi_Biryani_Spiced_Cauliflower_Rice_Recipe-1.jpg",
             "rating": {
             "rate": 1.9,
@@ -101,7 +101,7 @@
             "title": "Kadak Jolad Rotti ",
             "price": 64,
             "description": "Kadak Jolad Rotti thin banri,Mast irthada",
-            "category": "electronics",
+            "category": "karnataka",
             "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Jyothi_Rajesh/Jolada_Rotti__Jowar_Bhakri.jpg",
             "rating": {
             "rate": 3.3,
@@ -113,7 +113,7 @@
             "title": "Mysore Pak",
             "price": 109,
             "description": "Delicious and Superb ",
-            "category": "electronics",
+            "category": "karnataka",
             "image": "https://static.toiimg.com/thumb/53376135.cms?width=1200&height=900",
             "rating": {
             "rate": 2.9,
@@ -125,7 +125,7 @@
             "title": "Ragi Ball Sambar",
             "price": 109,
             "description": "For Tuff and strong people",
-            "category": "electronics",
+            "category": "karnataka",
             "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sneha-archanaskitchen.com/Meal_Plate_Mutton_Saaru_Ragi_Mudde__Onions-1_preview.jpeg",
             "rating": {
             "rate": 4.8,
@@ -137,7 +137,7 @@
             "title": "Obattu",
             "price": 114,
             "description": "Taste at peaks",
-            "category": "electronics",
+            "category": "karnataka",
             "image": "https://masalachilli.com/wp-content/uploads/2018/08/Holige-2-e1583302845660.jpg",
             "rating": {
             "rate": 4.8,
@@ -149,7 +149,7 @@
             "title": "Kadabu",
             "price": 599,
             "description": "Nice kadabusand very delicious",
-            "category": "electronics",
+            "category": "karnataka",
             "image": "https://udupi-recipes.com/wp-content/uploads/2018/09/Corn-khara-kadubu.jpg",
             "rating": {
             "rate": 2.9,
@@ -161,7 +161,7 @@
             "title": "Meals Karnataka",
             "price": 999.99,
             "description": "Nice meal",
-            "category": "electronics",
+            "category": "karnataka",
             "image": "https://i.pinimg.com/originals/ba/68/55/ba68555ae362879a9b4c5b8ffafcd599.jpg",
             "rating": {
             "rate": 2.2,
